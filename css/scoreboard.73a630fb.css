@@ -1,0 +1,1 @@
+.scoreRow{display:flex;flex-direction:row;flex-wrap:nowrap}.scoreRow .scoreLeft,.scoreRow .scoreRight{flex-grow:1;font-size:3em}.scoreRow .scoreLeft>button,.scoreRow .scoreRight>button{padding:1em}.scoreBoard[data-v-66bd156c]{max-height:100vh;overflow:auto}.scoreBoard>button[data-v-66bd156c]{padding:1em}
