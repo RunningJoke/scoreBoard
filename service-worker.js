@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.10980903170918e015111739827f7ba4.js"
+  "/scoreBoard/precache-manifest.9fbb2fe9f534eead543944777f720a98.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "score-board"});
