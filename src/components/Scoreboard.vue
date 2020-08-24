@@ -12,10 +12,6 @@
 
 <style lang="scss" scoped>
 .scoreBoard {
-
-  max-height: 100vh;
-  overflow: auto;
-
   & > button {
     padding: 1em;
   }
